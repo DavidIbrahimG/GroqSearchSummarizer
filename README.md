@@ -48,6 +48,11 @@ git clone https://github.com/YOUR-USERNAME/searchsynth.git
 cd searchsynth
 ```
 
+---
+### Streamlit UI
+<img width="1460" height="849" alt="Screenshot 2025-10-20 at 14 37 58" src="https://github.com/user-attachments/assets/cbd87dc8-6daa-4ccd-b249-4540173cc24c" />
+---
+
 ### 2. Create a virtual environment
 
 ``` bash
